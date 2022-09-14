@@ -3,10 +3,16 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-1.jpg" height="400px">
+  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-1.jpg">
 </p> 
 
 A Responsividade é um assunto muito importante para que nosso layout seja flexível, conforme o dispositivo que o está acessando, seja ele smartphone, tablet ou desktop. (E até mesmo, a impressora sabia?)
+
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-1.jpg" height="400px">
+  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-2.jpg" height="400px">
+</p> 
 
 Uma Masterclass da Rocketseat tratou desse assunto com estratégias de CSS Units para que tanto o nosso Layout, quanto os nossos textos, fiquem fluidos. 
 
