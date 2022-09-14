@@ -10,8 +10,8 @@ A Responsividade é um assunto muito importante para que nosso layout seja flex�
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-3.jpg" height="400px">
-  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-4.jpg" width="400px">
+  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-3.jpg" width="400px">
+  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-4.jpg" height="400px">
 </p> 
 
 Uma Masterclass da Rocketseat tratou desse assunto com estratégias de CSS Units para que tanto o nosso Layout, quanto os nossos textos, fiquem fluidos. 
