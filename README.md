@@ -1,6 +1,10 @@
-# Responsividade 
+<h4 align="center"> 
+	🚧 Blog Responsive 🚀
+</h4>
 
-Esse projeto é do vídeo [Responsividade na Prática | Masterclass #08](https://www.youtube.com/watch?v=H91DhKPjhPk) e do repositório no [Github](https://github.com/rocketseat-content/youtube-masterclass-responsividade).
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-1.jpg" height="400px">
+</p> 
 
 A Responsividade é um assunto muito importante para que nosso layout seja flexível, conforme o dispositivo que o está acessando, seja ele smartphone, tablet ou desktop. (E até mesmo, a impressora sabia?)
 
@@ -82,4 +86,8 @@ Usamos a tag `<picture>` para que as imagens sejam responsivas.
 </picture>
 ```
 
-Sempre que possível, usar SVG ao invés de JPG, PNG
+Sempre que possível, usar SVG ao invés de JPG, PNG 
+
+Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
+ 
+Fonte do projeto na [Responsividade na Prática | Masterclass #08](https://www.youtube.com/watch?v=H91DhKPjhPk) e do repositório no [Github](https://github.com/rocketseat-content/youtube-masterclass-responsividade).
