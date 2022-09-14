@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-1.jpg" height="400px">
+  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-3.jpg">
 </p> 
 
 A Responsividade é um assunto muito importante para que nosso layout seja flexível, conforme o dispositivo que o está acessando, seja ele smartphone, tablet ou desktop. (E até mesmo, a impressora sabia?)
@@ -13,6 +13,11 @@ Uma Masterclass da Rocketseat tratou desse assunto com estratégias de CSS Units
 Utilizaram também CSS Media Queries para adicionar CSS customizados conforme o **breakpoint** definido, para que nosso layout fique adaptado ao viewport do dispositivo. 
 
 Além do mais, veremos atributos e tags HTML especiais, para que possamos obter sucesso ao tornar nosso layout responsivo.
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-3.jpg" width="400px">
+  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-4.jpg" height="400px">
+</p> 
 
 ## CSS Units
 
