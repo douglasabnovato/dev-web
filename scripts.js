@@ -117,25 +117,25 @@ const frontends = [
   {
     title: "Formulário Animado com JS puro e CSS Animation | Mayk Brito",
     duration: "57 min",
-    thumb: "https://i.ytimg.com/vi/GykTLqODQuU/hqdefault.jpg",
+    thumb: "./thumb_web/photo-51.avif",
     video_id: "GykTLqODQuU",
   },
   {
     title: "Desvendando o CSS Grid na prática | Mayk Brito",
     duration: "36 min",
-    thumb: "https://i.ytimg.com/vi/HN1UjzRSdBk/hqdefault.jpg",
+    thumb: "./thumb_web/photo-52.avif",
     video_id: "HN1UjzRSdBk",
   },
   {
     title: "Array: Higher Order Functions | Mayk Brito",
     duration: "54 min",
-    thumb: "https://i.ytimg.com/vi/rAzHvYnQ8DY/hqdefault.jpg",
+    thumb: "./thumb_web/photo-53.avif",
     video_id: "rAzHvYnQ8DY",
   },
   {
     title: "Desvendando a variável this no Javascript | Mayk Brito",
     duration: "48 min",
-    thumb: "https://i.ytimg.com/vi/GSqR2i-Pq6o/hqdefault.jpg",
+    thumb: "./thumb_web/photo-54.avif", /** https://i.ytimg.com/vi/GSqR2i-Pq6o/hqdefault.jpg */
     video_id: "GSqR2i-Pq6o",
   },
   {
@@ -147,7 +147,7 @@ const frontends = [
   {
     title: "TUDO que você deve estudar de JavaScript antes do React",
     duration: "1 hr 25 min 23 seg",
-    thumb: "https://i.ytimg.com/vi/37SwqREHRGI/hqdefault.jpg",
+    thumb: "./thumb_web/photo-55.avif",
     video_url: "37SwqREHRGI"
   },
   {
@@ -265,7 +265,7 @@ const projects = [
     title:
       "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
     duration: "33 min",
-    thumb: "https://i.ytimg.com/vi/2alg7MQ6_sI/hqdefault.jpg",
+    thumb: "./thumb_web/photo-56.avif",
     video_id: "2alg7MQ6_sI",
   },
   {
@@ -295,7 +295,7 @@ const backends = [
   {
     title: "O que é API? REST e RESTful? | Mayk Brito",
     duration: "33 min",
-    thumb: "https://i.ytimg.com/vi/ghTrp1x_1As/hqdefault.jpg",
+    thumb: "./thumb_web/photo-57.avif",
     video_id: "ghTrp1x_1As",
   },
   {
