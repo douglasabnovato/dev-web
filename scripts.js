@@ -159,6 +159,78 @@ const backends = [
     thumb: "https://i.ytimg.com/vi/ghTrp1x_1As/hqdefault.jpg",
     video_id: "ghTrp1x_1As",
   },
+  {
+    title: "Seu próximo back-end Node com TESTES! (+ SOLID)",
+    duration: "1hr 2 min 42 seg",
+    thumb: "./thumb_web/photo-19.avif",
+    video_id: "jBOLRzjEERk",
+  },
+  {
+    title: "COMEÇANDO COM NODE.JS",
+    duration: "1hr 19 min 8 seg",
+    thumb: "./thumb_web/photo-20.avif",
+    video_id: "fm4_EuCsQwg",
+  },
+  {
+    title: "Consumindo API no front-end com AXIOS",
+    duration: "50 min 20 seg",
+    thumb: "./thumb_web/photo-21.avif",
+    video_id: "VM4e37DaskU&t=1611s",
+  },
+  {
+    title: "GraphQL no Node.js",
+    duration: "44 min 33 seg",
+    thumb: "./thumb_web/photo-22.avif",
+    video_id: "1dz48pReq_c",
+  },
+  {
+    title: "O guia completo para acessar sua primeira vaga como dev back-end",
+    duration: "1hr 21 min 33 seg",
+    thumb: "./thumb_web/photo-23.avif",
+    video_id: "fuBjSDSZY-8&t=2389s",
+  },
+  {
+    title: "Next.js substitui o back end?",
+    duration: "24 min 52 seg",
+    thumb: "./thumb_web/photo-24.avif",
+    video_id: "7d_yAEMF7Z8",
+  },
+  {
+    title: "Upload de arquivos: back-end com NodeJS",
+    duration: "1 hr 3 min 21 seg",
+    thumb: "./thumb_web/photo-25.avif",
+    video_id: "MkkbUfcZUZM&t=5s",
+  },
+  {
+    title: "[API NodeJS + Express + Mongo] Estrutura e cadastro",
+    duration: "22 min 33seg",
+    thumb: "./thumb_web/photo-26.avif",
+    video_id: "BN_8bCfVp88&t=322s",
+  },
+  {
+    title: "TypeScript com NodeJS do jeito certo!",
+    duration: "43 min 34 seg",
+    thumb: "./thumb_web/photo-27.avif",
+    video_id: "aTf8QTjw4RE&t=685s",
+  },
+  {
+    title: "Programa em Node.js com NestJS ",
+    duration: "1 hr 26 min 5 seg",
+    thumb: "./thumb_web/photo-28.avif",
+    video_id: "TRa55WbWnvQ",
+  },
+  {
+    title: "SQL no Node.js com Sequelize",
+    duration: "1 hr 40 min 21 seg",
+    thumb: "./thumb_web/photo-29.avif",
+    video_id: "Fbu7z5dXcRs",
+  },
+  {
+    title: "Node.js: Iniciando da teoria à prática",
+    duration: "1 hr 33 min 17seg",
+    thumb: "./thumb_web/photo-30.avif",
+    video_id: "DiXbJL3iWVs",
+  },
 ]
 
 softskills.map((softskill) => {
