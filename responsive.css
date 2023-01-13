@@ -3,7 +3,7 @@ html {
 }
 
 /**
-* media queries para 630px: desktop
+* desktop
 */
 @media (max-width: 630px) {
 
@@ -22,7 +22,7 @@ html {
 }
 
 /**
-* media queries para 540px: tablet
+*  tablet
 */
 @media (max-width: 540px) {
     nav {
@@ -102,7 +102,7 @@ html {
 }
 
 /**
-* media queries para 320px: mobile
+* mobile
 */
 @media (max-width: 320px) {
     #form h3 {
