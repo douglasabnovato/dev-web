@@ -36,7 +36,6 @@ html {
         height: 5px;
         width: 100%;
         margin: 6px auto;
-
         transition-duration: 0.3s;
     }
 
@@ -51,14 +50,10 @@ html {
         position: absolute;
         top: 0;
         left: 0;
-
         width: 100vw;
         height: 100vh;
-
         background-color: #7159c1;
-
         z-index: 10;
-
         display: flex;
         justify-content: center;
         align-items: center;
@@ -96,7 +91,6 @@ html {
         font-size: 3rem;
         line-height: 4rem;
         display: block;
-
     }
 
 }

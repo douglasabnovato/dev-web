@@ -14,6 +14,12 @@ Links de conteúdos para aprender a programar, sendo: soft skill, frontend, back
 - [x] tooltip para indicar a categoria do card
 - [x] objeto para cada categoria
 - [x] compreendido a url do youtube
+- [x] personalizar logo
+- [ ] personalizar formulário
+- [ ] personalizar menu
+- [ ] personalizar menu mobile
+- [ ] favicon personalizado
+- [x] criar função para botão principal
 
 ### Detalhes da versão inicial
 
