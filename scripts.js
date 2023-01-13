@@ -126,6 +126,78 @@ const frontends = [
     thumb: "./thumb_web/photo-16.avif",
     video_url: "B_jepC7Eufo"
   },
+  {
+    title: "TUDO que você deve estudar de JavaScript antes do React",
+    duration: "1 hr 25 min 23 seg",
+    thumb: "https://i.ytimg.com/vi/37SwqREHRGI/hqdefault.jpg",
+    video_url: "37SwqREHRGI"
+  },
+  {
+    title: "Filtrando elementos na DOM com JavaScript PURO",
+    duration: "24 min 55 seg",
+    thumb: "./thumb_web/photo-31.avif",
+    video_url: "p-hgFD2HJSc"
+  },
+  {
+    title: "Enviando formulários sem programar back-end",
+    duration: "23 min 52 seg",
+    thumb: "./thumb_web/photo-32.avif",
+    video_url: "NVc_xY_dP-M"
+  },
+  {
+    title: "Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components",
+    duration: "44 min 26 seg",
+    thumb: "./thumb_web/photo-33.avif",
+    video_url: "1nVUfZg2dSA"
+  },
+  {
+    title: "Recriando home do Pinterest com HTML, Sass e JavaScript",
+    duration: "53 min 16 seg",
+    thumb: "./thumb_web/photo-34.avif",
+    video_url: "XdqD8qi44Cg"
+  },
+  {
+    title: "Guia definitivo de performance (useMemo, useCallback, memo) ",
+    duration: "54 min 14 seg",
+    thumb: "./thumb_web/photo-35.avif",
+    video_url: "NmU2nNehNNY"
+  },
+  {
+    title: "1",
+    duration: "1 hr 07 min 14 seg",
+    thumb: "./thumb_web/photo-16.avif",
+    video_url: "B_jepC7Eufo"
+  },
+  {
+    title: "1",
+    duration: "1 hr 07 min 14 seg",
+    thumb: "./thumb_web/photo-16.avif",
+    video_url: "B_jepC7Eufo"
+  },
+  {
+    title: "1",
+    duration: "1 hr 07 min 14 seg",
+    thumb: "./thumb_web/photo-16.avif",
+    video_url: "B_jepC7Eufo"
+  },
+  {
+    title: "1",
+    duration: "1 hr 07 min 14 seg",
+    thumb: "./thumb_web/photo-16.avif",
+    video_url: "B_jepC7Eufo"
+  },
+  {
+    title: "1",
+    duration: "1 hr 07 min 14 seg",
+    thumb: "./thumb_web/photo-16.avif",
+    video_url: "B_jepC7Eufo"
+  },
+  {
+    title: "1",
+    duration: "1 hr 07 min 14 seg",
+    thumb: "./thumb_web/photo-16.avif",
+    video_url: "B_jepC7Eufo"
+  },
 ];
 
 const projects = [
