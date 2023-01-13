@@ -18,8 +18,8 @@ Links de conteúdos para aprender a programar, sendo: soft skill, frontend, back
 - [ ] personalizar formulário
 - [ ] personalizar menu
 - [ ] personalizar menu mobile
-- [ ] favicon personalizado
-- [x] criar função para botão principal
+- [x] favicon personalizado
+- [ ] criar função para botão principal
 
 ### Detalhes da versão inicial
 
