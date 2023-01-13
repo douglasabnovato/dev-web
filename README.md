@@ -1,10 +1,21 @@
 <h4 align="center"> 
-	🚧 Blog Responsive 🚀
+	🚧 Developer 🚀
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1.5 do projeto" title="#BlogResponsive" src="./.github/tela-1.jpg">
+  <img alt="versão 1.5 do projeto" title="#developer" src="./.github/tela-1.jpg">
 </p> 
+
+Links de conteúdos para aprender a programar, sendo: soft skill, frontend, backend e tools.
+
+### Tarefas
+
+- [x] links organizados em categorias
+- [x] tooltip para indicar a categoria do card
+- [x] objeto para cada categoria
+- [x] compreendido a url do youtube
+
+### Detalhes da versão inicial
 
 A Responsividade é um assunto muito importante para que nosso layout seja flexível, conforme o dispositivo que o está acessando, seja ele smartphone, tablet ou desktop. (E até mesmo, a impressora sabia?)
 
