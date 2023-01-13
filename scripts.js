@@ -13,7 +13,7 @@ const softskills = [
     title: "Técnicas de estudo em programação",
     duration: "28 min 28 seg",
     thumb: "./thumb_web/photo-2.avif",
-    video_url: "Fzwr1JcqFo4&t=33s"
+    video_url: "Fzwr1JcqFo4"
   },
   {
     title: "O networking ajudou ele a ser reconhecido",
@@ -55,7 +55,7 @@ const softskills = [
     title: "Trabalhando no front-end do Zé Delivery",
     duration: "39 min 18 seg",
     thumb: "./thumb_web/photo-9.avif",
-    video_url: "aUI1C8D9WnA&t=27s"
+    video_url: "aUI1C8D9WnA"
   },
   {
     title: "7 Hábitos dos Devs que chegam no próximo nível",
@@ -92,6 +92,24 @@ const softskills = [
     duration: "46 min 13 seg",
     thumb: "./thumb_web/photo-15.avif",
     video_url: "WoVXCbHL0Z4"
+  },
+  {
+    title: "Não sei inglês, e agora? ",
+    duration: "44 min 19 seg",
+    thumb: "./thumb_web/photo-48.avif",
+    video_url: "keMIEpZxQNI"
+  },
+  {
+    title: "Júnior, pleno e sênior, encerrando o assunto!",
+    duration: "39 min 21 seg",
+    thumb: "./thumb_web/photo-49.avif",
+    video_url: "b1uDnGcqeeQ"
+  },
+  {
+    title: "Front-End: Desafios reais do mercado de trabalho",
+    duration: "2 hr 08 min 16 seg",
+    thumb: "./thumb_web/photo-50.avif",
+    video_url: "eb_ZJorrWeI"
   },
 ]
 
@@ -163,40 +181,82 @@ const frontends = [
     video_url: "NmU2nNehNNY"
   },
   {
-    title: "1",
-    duration: "1 hr 07 min 14 seg",
-    thumb: "./thumb_web/photo-16.avif",
-    video_url: "B_jepC7Eufo"
+    title: "Como COMEÇAR a programar em 2023",
+    duration: "34 min 59 seg",
+    thumb: "./thumb_web/photo-36.avif",
+    video_url: "chkRo381f44"
   },
   {
-    title: "1",
-    duration: "1 hr 07 min 14 seg",
-    thumb: "./thumb_web/photo-16.avif",
-    video_url: "B_jepC7Eufo"
+    title: "Guia de estudo JavaScript em 2023!",
+    duration: "1 hr 04 min 28 seg",
+    thumb: "./thumb_web/photo-37.avif",
+    video_url: "EDotqZwJ4aA"
   },
   {
-    title: "1",
-    duration: "1 hr 07 min 14 seg",
-    thumb: "./thumb_web/photo-16.avif",
-    video_url: "B_jepC7Eufo"
+    title: "Design para front-end",
+    duration: "27 min 45 seg",
+    thumb: "./thumb_web/photo-38.avif",
+    video_url: "xZGxzSJuwbo"
   },
   {
-    title: "1",
-    duration: "1 hr 07 min 14 seg",
-    thumb: "./thumb_web/photo-16.avif",
-    video_url: "B_jepC7Eufo"
+    title: "Dicas para dev júnior / Flexbox ou Grid? / Container Queries",
+    duration: "41 min 03 seg",
+    thumb: "./thumb_web/photo-39.avif",
+    video_url: "LAz15zfp1pQ"
   },
   {
-    title: "1",
-    duration: "1 hr 07 min 14 seg",
-    thumb: "./thumb_web/photo-16.avif",
-    video_url: "B_jepC7Eufo"
+    title: "Como melhorar minha lógica de programação?",
+    duration: "43 min 52 seg",
+    thumb: "./thumb_web/photo-40.avif",
+    video_url: "LA2L4OsYrY0"
   },
   {
-    title: "1",
-    duration: "1 hr 07 min 14 seg",
-    thumb: "./thumb_web/photo-16.avif",
-    video_url: "B_jepC7Eufo"
+    title: "Como estudar documentação: WEB Components e Shadow DOM",
+    duration: "37 min 37 seg",
+    thumb: "./thumb_web/photo-41.avif",
+    video_url: "Sm_r3qamCzU"
+  },
+  {
+    title: "Boas práticas para escrever um HTML profissional ",
+    duration: "32 min 33 seg",
+    thumb: "./thumb_web/photo-42.avif",
+    video_url: "TBplwrsUj4s"
+  },
+  {
+    title: "JavaScript - Maneiras de criar objetos",
+    duration: "38 min 1 seg",
+    thumb: "./thumb_web/photo-43.avif",
+    video_url: "X6klpqubyBw"
+  },
+  {
+    title: "CSS - Como eu penso em CSS?",
+    duration: "20 min 35 seg",
+    thumb: "./thumb_web/photo-44.avif",
+    video_url: "q_ppL_sU6qU"
+  },
+  {
+    title: "Começando no CRUD | Quando usar git revert?",
+    duration: "34 min 07 seg",
+    thumb: "./thumb_web/photo-45.avif",
+    video_url: "6J7JVMUrvT4"
+  },
+  {
+    title: "3 coisas que você precisa dominar no Javascript pra se dar bem no React",
+    duration: "11 min 41 seg",
+    thumb: "./thumb_web/photo-46.avif",
+    video_url: "a2ni_JNvJYQ"
+  },
+  {
+    title: "O ERRO mais comum no React (você já fez isso)",
+    duration: "13 min 25 seg",
+    thumb: "./thumb_web/photo-47.avif",
+    video_url: "kCpca2z2cls"
+  },
+  {
+    title: "#boraCodar um player de música",
+    duration: "1 hr 05 min 9 seg",
+    thumb: "./thumb_web/photo-48.avif",
+    video_url: "M_eaBcany6Y"
   },
 ];
 
@@ -213,14 +273,21 @@ const projects = [
       "Princípios SOLID em uma API REST com Node.js e TypeScript",
     duration: "48 min 28 seg",
     thumb: "./thumb_web/photo-17.avif",
-    video_id: "vAV4Vy4jfkc&t=295s",
+    video_id: "vAV4Vy4jfkc",
   },
   {
     title:
       "TDD na prática",
     duration: "1 hr 59 min 47 seg",
     thumb: "./thumb_web/photo-18.avif",
-    video_id: "sg1zFpNM5Jw&t=142s",
+    video_id: "sg1zFpNM5Jw",
+  },
+  {
+    title:
+      "REFATOREI UM CÓDIGO REACT USANDO CLEAN CODE",
+    duration: "30 min 52 seg",
+    thumb: "./thumb_web/photo-48.avif",
+    video_id: "qcIhUoBZaHg",
   },
 ]
 
@@ -247,7 +314,7 @@ const backends = [
     title: "Consumindo API no front-end com AXIOS",
     duration: "50 min 20 seg",
     thumb: "./thumb_web/photo-21.avif",
-    video_id: "VM4e37DaskU&t=1611s",
+    video_id: "VM4e37DaskU",
   },
   {
     title: "GraphQL no Node.js",
@@ -259,7 +326,7 @@ const backends = [
     title: "O guia completo para acessar sua primeira vaga como dev back-end",
     duration: "1hr 21 min 33 seg",
     thumb: "./thumb_web/photo-23.avif",
-    video_id: "fuBjSDSZY-8&t=2389s",
+    video_id: "fuBjSDSZY-8",
   },
   {
     title: "Next.js substitui o back end?",
@@ -271,19 +338,19 @@ const backends = [
     title: "Upload de arquivos: back-end com NodeJS",
     duration: "1 hr 3 min 21 seg",
     thumb: "./thumb_web/photo-25.avif",
-    video_id: "MkkbUfcZUZM&t=5s",
+    video_id: "MkkbUfcZUZM",
   },
   {
     title: "[API NodeJS + Express + Mongo] Estrutura e cadastro",
     duration: "22 min 33seg",
     thumb: "./thumb_web/photo-26.avif",
-    video_id: "BN_8bCfVp88&t=322s",
+    video_id: "BN_8bCfVp88",
   },
   {
     title: "TypeScript com NodeJS do jeito certo!",
     duration: "43 min 34 seg",
     thumb: "./thumb_web/photo-27.avif",
-    video_id: "aTf8QTjw4RE&t=685s",
+    video_id: "aTf8QTjw4RE",
   },
   {
     title: "Programa em Node.js com NestJS ",
