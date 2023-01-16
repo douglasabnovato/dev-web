@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1.5 do projeto" title="#developer" src="./.github/tela-1.jpg">
+  <img alt="versão 1.5 do projeto" title="#developer" src="./.github/tela-5.jpg">
 </p> 
 
 Links de conteúdos para aprender a programar, sendo: soft skill, frontend, backend e tools.
@@ -36,8 +36,8 @@ Além do mais, veremos atributos e tags HTML especiais, para que possamos obter 
 Design inicial com a aplicação das técnicas citadas abaixo de responsividade.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1.5 do projeto" title="#BlogResponsive" src="./.github/tela-1.jpg" width="400px">
-  <img alt="versão 1.5 do projeto" title="#BlogResponsive" src="./.github/tela-2.jpg" height="400px">
+  <img alt="versão 1.5 do projeto" title="#BlogResponsive" src="./.github/tela-5.jpg" width="400px">
+  <img alt="versão 1.5 do projeto" title="#BlogResponsive" src="./.github/tela-6.jpg" height="400px">
 </p> 
 
 ## CSS Units
