@@ -261,7 +261,56 @@ const fullstacks = [
     thumb: "../files/thumb_hard-skills/git.jpg",
     site_url: "https://git-scm.com/",
     category: "Controle de Versão"
-  }
+  },
+  {
+    title: "Microsoft SQL",
+    duration: "14 dias",
+    thumb: "../files/thumb_hard-skills/microsoft-sql.jpg",
+    site_url: "https://learn.microsoft.com/en-us/sql/sql-server/install/what-s-new-in-sql-server-installation?view=sql-server-ver15",
+    category: "Banco de Dados"
+  },
+  {
+    title: "Firebase",
+    duration: "14 dias",
+    thumb: "../files/thumb_hard-skills/firebase.jpg",
+    site_url: "https://firebase.google.com/docs/web/setup",
+    category: "Banco de Dados"
+  },
+  {
+    title: "Prisma SQLite",
+    duration: "14 dias",
+    thumb: "../files/thumb_hard-skills/prisma-sql.jpg",
+    site_url: "https://www.prisma.io/docs/concepts/database-connectors/sqlite",
+    category: "Banco de Dados"
+  },
+  {
+    title: "SQLite",
+    duration: "14 dias",
+    thumb: "../files/thumb_hard-skills/sqlite.jpg",
+    site_url: "https://www.sqlite.org/whentouse.html",
+    category: "Banco de Dados"
+  },
+  {
+    title: "MySQL",
+    duration: "14 dias",
+    thumb: "../files/thumb_hard-skills/mysql.jpg",
+    site_url: "https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html",
+    category: "Banco de Dados"
+  },
+  {
+    title: "PostgreSQL",
+    duration: "14 dias",
+    thumb: "../files/thumb_hard-skills/postgresql.jpg",
+    site_url: "https://www.postgresql.org/developer/",
+    category: "Banco de Dados"
+  },
+  {
+    title: "MongoDB",
+    duration: "14 dias",
+    thumb: "../files/thumb_hard-skills/mongodb.jpg",
+    site_url: "https://www.mongodb.com/docs/",
+    category: "Banco de Dados"
+  }  
 ]
 
 fullstacks.map((fullstack) => {
