@@ -17,10 +17,10 @@ Links de conteúdos para aprender a programar, sendo: soft skill, frontend, back
 - [x] personalizar logo
 - [x] favicon personalizado
 - [x] personalizar menu com área de estudo
+- [x] personalizar menu mobile com fluxo 
+- [x] estrutura de tópicos construídos index, hardskills, tools, host, collegestech, perfisdev, goodcompanies, jobs, softskills, speaker
 - [ ] personalizar formulário com uma funcionalidade legal
-- [ ] personalizar menu mobile com fluxo 
 - [ ] criar função para botão principal
-- [ ] construir o menu hardskills - fazendo
 
 ### Detalhes da versão inicial
 
