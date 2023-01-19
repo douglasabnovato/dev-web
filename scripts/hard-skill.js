@@ -228,68 +228,40 @@ const fullstacks = [
     category: "Frontend"
   },
   {
-    title: "Grid by Example",
+    title: "NextJS",
     duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
+    thumb: "../files/thumb_hard-skills/nextjs.jpg",
+    site_url: "https://nextjs.org/",
+    category: "Frontend"
   },
   {
-    title: "Grid by Example",
+    title: "GatsbyJS",
     duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
+    thumb: "../files/thumb_hard-skills/gatsbyjs.jpg",
+    site_url: "https://www.gatsbyjs.com/",
+    category: "Frontend"
   },
   {
-    title: "Grid by Example",
+    title: "Jestjs",
     duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
+    thumb: "../files/thumb_hard-skills/jestjs.jpg",
+    site_url: "https://jestjs.io/pt-BR/",
+    category: "Teste"
   },
   {
-    title: "Grid by Example",
+    title: "React Testing Library",
     duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
+    thumb: "../files/thumb_hard-skills/react-testing-library.jpg",
+    site_url: "https://testing-library.com/docs/react-testing-library/intro/",
+    category: "Teste"
   },
   {
-    title: "Grid by Example",
+    title: "Git",
     duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
-  },
-  {
-    title: "Grid by Example",
-    duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
-  },
-  {
-    title: "Grid by Example",
-    duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
-  },
-  {
-    title: "Grid by Example",
-    duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
-  },
-  {
-    title: "Grid by Example",
-    duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
-  },
+    thumb: "../files/thumb_hard-skills/git.jpg",
+    site_url: "https://git-scm.com/",
+    category: "Controle de Versão"
+  }
 ]
 
 fullstacks.map((fullstack) => {
