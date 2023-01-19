@@ -15,11 +15,12 @@ Links de conteúdos para aprender a programar, sendo: soft skill, frontend, back
 - [x] objeto para cada categoria
 - [x] compreendido a url do youtube
 - [x] personalizar logo
-- [ ] personalizar formulário com uma funcionalidade legal
-- [ ] personalizar menu com área de estudo
-- [ ] personalizar menu mobile com fluxo 
 - [x] favicon personalizado
+- [x] personalizar menu com área de estudo
+- [ ] personalizar formulário com uma funcionalidade legal
+- [ ] personalizar menu mobile com fluxo 
 - [ ] criar função para botão principal
+- [ ] construir o menu hardskills - fazendo
 
 ### Detalhes da versão inicial
 

@@ -68,24 +68,171 @@ const fullstacks = [
   },
   {
     title: "Guia Codepip",
-    duration: "14 dias",
+    duration: "2 dias",
     thumb: "../public/thumb_hard-skills/codepip.jpg",
     site_url: "https://codepip.com/",
     category: "CSS"
   },
   {
     title: "Guia Grid Malven",
-    duration: "14 dias",
+    duration: "2 dias",
     thumb: "../public/thumb_hard-skills/grid-malven.jpg",
     site_url: "https://grid.malven.co/",
     category: "CSS"
   },
   {
     title: "Guia Flex Malven",
-    duration: "14 dias",
+    duration: "2 dias",
     thumb: "../public/thumb_hard-skills/flex-malven.jpg",
     site_url: "https://flexbox.malven.co/",
     category: "CSS"
+  },
+  {
+    title: "MDN Aprendendo desenvolvimento web",
+    duration: "4 dias",
+    thumb: "../public/thumb_hard-skills/mdn-1.jpg",
+    site_url: "https://developer.mozilla.org/pt-BR/docs/Learn",
+    category: "Web Developer"
+  },
+  {
+    title: "MDN HTML",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/mdn-1.jpg",
+    site_url: "https://developer.mozilla.org/pt-BR/docs/Learn/HTML",
+    category: "HTML"
+  },
+  {
+    title: "MDN CSS",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/mdn-1.jpg",
+    site_url: "https://developer.mozilla.org/pt-BR/docs/Web/CSS",
+    category: "CSS"
+  },
+  {
+    title: "MDN Acessibilidade",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/mdn-1.jpg",
+    site_url: "https://developer.mozilla.org/pt-BR/docs/Web/Accessibility",
+    category: "CSS Advanced"
+  },
+  {
+    title: "MDN CSS Pré Processador",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/mdn-1.jpg",
+    site_url: "https://developer.mozilla.org/pt-BR/docs/Glossary/CSS_preprocessor",
+    category: "CSS Advanced"
+  },
+  {
+    title: "MDN Javascript",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/mdn-1.jpg",
+    site_url: "https://developer.mozilla.org/pt-BR/docs/Learn/Javascript",
+    category: "Javascript"
+  },
+  {
+    title: "MDN JSON",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/mdn-1.jpg",
+    site_url: "https://developer.mozilla.org/en-US/docs/Web/Javascript/Reference/Global_Objects/JSON",
+    category: "Javascript"
+  },
+  {
+    title: "MDN Web Authentication API",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/mdn-1.jpg",
+    site_url: "https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API",
+    category: "Javascript"
+  },
+  {
+    title: "Axios",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/axios.jpg",
+    site_url: "https://axios-http.com/",
+    category: "Javascript Advanced"
+  },
+  {
+    title: "Type ORM",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/typeorm.jpg",
+    site_url: "https://typeorm.io/",
+    category: "Javascript Advanced"
+  },
+  {
+    title: "Styled Components",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/styled-components.jpg",
+    site_url: "https://styled-components.com/",
+    category: "CSS Advanced"
+  },
+  {
+    title: "Ant Design",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/ant-design.jpg",
+    site_url: "https://ant.design/",
+    category: "CSS Advanced"
+  },
+  {
+    title: "Tailwindcss",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/tailwindcss.jpg",
+    site_url: "https://tailwindcss.com/",
+    category: "CSS Advanced"
+  },
+  {
+    title: "Material UI",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/material-ui.jpg",
+    site_url: "https://gridbyexample.com/patterns/",
+    category: "CSS Advanced"
+  },
+  {
+    title: "Material Design - M2 e M3",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/material-design.jpg",
+    site_url: "https://m2.material.io/design/introduction",
+    category: "CSS Advanced"
+  },
+  {
+    title: "Storybook",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/storybook.jpg",
+    site_url: "storybook",
+    category: "Web Developer"
+  },
+  {
+    title: "Grid by Example",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/gridbyexample.jpg",
+    site_url: "https://gridbyexample.com/patterns/",
+    category: "CSS Advanced"
+  },
+  {
+    title: "Grid by Example",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/gridbyexample.jpg",
+    site_url: "https://gridbyexample.com/patterns/",
+    category: "CSS Advanced"
+  },
+  {
+    title: "Grid by Example",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/gridbyexample.jpg",
+    site_url: "https://gridbyexample.com/patterns/",
+    category: "CSS Advanced"
+  },
+  {
+    title: "Grid by Example",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/gridbyexample.jpg",
+    site_url: "https://gridbyexample.com/patterns/",
+    category: "CSS Advanced"
+  },
+  {
+    title: "Grid by Example",
+    duration: "14 dias",
+    thumb: "../public/thumb_hard-skills/gridbyexample.jpg",
+    site_url: "https://gridbyexample.com/patterns/",
+    category: "CSS Advanced"
   },
   {
     title: "Grid by Example",
