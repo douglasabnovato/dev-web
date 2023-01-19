@@ -200,32 +200,32 @@ const fullstacks = [
     category: "Web Developer"
   },
   {
-    title: "Grid by Example",
+    title: "Yarn",
     duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
+    thumb: "../files/thumb_hard-skills/files.jpg",
+    site_url: "https://yarnpkg.com/",
+    category: "Gerenciador de Pacotes"
   },
   {
-    title: "Grid by Example",
+    title: "Npm",
     duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
+    thumb: "../files/thumb_hard-skills/npm.jpg",
+    site_url: "https://docs.npmjs.com/about-npm",
+    category: "Gerenciador de Pacotes"
   },
   {
-    title: "Grid by Example",
+    title: "ReactJS",
     duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
+    thumb: "../files/thumb_hard-skills/reactjs.jpg",
+    site_url: "https://reactjs.org/docs/getting-started.html",
+    category: "Frontend"
   },
   {
-    title: "Grid by Example",
+    title: "Typescript",
     duration: "14 dias",
-    thumb: "../files/thumb_hard-skills/gridbyexample.jpg",
-    site_url: "https://gridbyexample.com/patterns/",
-    category: "CSS Advanced"
+    thumb: "../files/thumb_hard-skills/typescript.jpg",
+    site_url: "https://www.typescriptlang.org/",
+    category: "Frontend"
   },
   {
     title: "Grid by Example",
