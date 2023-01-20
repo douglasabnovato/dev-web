@@ -4,6 +4,13 @@ const card = document.querySelector("div.card");
 
 const hardskills = [
   {
+    title: "Douglas",
+    duration: "55 min 23 seg",
+    thumb: "./../public/douglasabnovato.jpg",
+    video_url: "UF7RXzD4hvs",
+    category: "Soft Skills"
+  },
+  {
     title: "As melhores SOFT SKILLS para devs (que estão começando)",
     duration: "55 min 23 seg",
     thumb: "./../public/photo-1.avif",

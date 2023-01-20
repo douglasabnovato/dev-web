@@ -4,25 +4,25 @@ const card = document.querySelector("div.card");
 
 const fullstacks = [
   {
-    title: "Guia Web Dev",
+    title: "Duolingo English",
     duration: "10 dias",
-    thumb: "../files/thumb_tools/tools.jpg",
-    site_url: "https://web.dev/learn/",
-    category: "Web Developer"
+    thumb: "../files/thumb_speaker/english.jpg",
+    site_url: "https://www.duolingo.com/learn",
+    category: "Idioma"
   },
   {
-    title: "Guia Web Dev",
+    title: "Duolingo France",
     duration: "10 dias",
-    thumb: "../files/thumb_tools/tools.jpg",
-    site_url: "https://web.dev/learn/",
-    category: "Web Developer"
+    thumb: "../files/thumb_speaker/france.jpg",
+    site_url: "https://www.duolingo.com/learn",
+    category: "Idioma"
   },
   {
-    title: "Guia Web Dev",
+    title: "mairo vergara English",
     duration: "10 dias",
-    thumb: "../files/thumb_tools/tools.jpg",
-    site_url: "https://web.dev/learn/",
-    category: "Web Developer"
+    thumb: "../files/thumb_speaker/mairovergara.jpg",
+    site_url: "https://www.mairovergara.com/",
+    category: "Idioma"
   },
 ]
 

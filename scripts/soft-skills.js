@@ -4,25 +4,46 @@ const card = document.querySelector("div.card");
 
 const fullstacks = [
   {
-    title: "Guia Web Dev",
+    title: "solides",
     duration: "10 dias",
-    thumb: "../files/thumb_tools/tools.jpg",
-    site_url: "https://web.dev/learn/",
-    category: "Web Developer"
+    thumb: "../files/thumb_soft-skills/solides.jpg",
+    site_url: "https://empregabilidade.solides.com.br/",
+    category: "Comportamentais"
   },
   {
-    title: "Guia Web Dev",
+    title: "na pratica",
     duration: "10 dias",
-    thumb: "../files/thumb_tools/tools.jpg",
-    site_url: "https://web.dev/learn/",
-    category: "Web Developer"
+    thumb: "../files/thumb_soft-skills/na-pratica.jpg",
+    site_url: "https://ead.napratica.org.br/",
+    category: "Comportamentais"
   },
   {
-    title: "Guia Web Dev",
+    title: "Endeavor",
     duration: "10 dias",
-    thumb: "../files/thumb_tools/tools.jpg",
-    site_url: "https://web.dev/learn/",
-    category: "Web Developer"
+    thumb: "../files/thumb_soft-skills/endeavor.jpg",
+    site_url: "https://endeavor.org.br/empreendedores-endeavor/",
+    category: "empreendedorismo"
+  },
+  {
+    title: "TED",
+    duration: "10 dias",
+    thumb: "../files/thumb_soft-skills/ted.jpg",
+    site_url: "https://www.ted.com/",
+    category: "Motivacional"
+  },
+  {
+    title: "CODEJR",
+    duration: "10 dias",
+    thumb: "../files/thumb_soft-skills/codejr.jpg",
+    site_url: "https://codejr.com.br/",
+    category: "Empreendedorismo"
+  },
+  {
+    title: "aiesec",
+    duration: "10 dias",
+    thumb: "../files/thumb_soft-skills/aiesec.jpg",
+    site_url: "https://aiesec.org.br/",
+    category: "Liderança"
   },
 ]
 

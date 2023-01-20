@@ -4,26 +4,68 @@ const card = document.querySelector("div.card");
 
 const fullstacks = [
   {
-    title: "Guia Web Dev",
+    title: "aaaaaaaa",
     duration: "10 dias",
     thumb: "../files/thumb_colleges-tech/colleges-tech.jpg",
     site_url: "https://web.dev/learn/",
     category: "Web Developer"
-  },
+  }, 
   {
-    title: "Guia Web Dev",
+    title: "aaaaaaaa",
     duration: "10 dias",
     thumb: "../files/thumb_colleges-tech/colleges-tech.jpg",
     site_url: "https://web.dev/learn/",
     category: "Web Developer"
-  },
+  }, 
   {
-    title: "Guia Web Dev",
+    title: "aaaaaaaa",
     duration: "10 dias",
-    thumb: "../files/thumb_tools/tools.jpg",
+    thumb: "../files/thumb_colleges-tech/colleges-tech.jpg",
     site_url: "https://web.dev/learn/",
     category: "Web Developer"
-  },
+  }, 
+  {
+    title: "aaaaaaaa",
+    duration: "10 dias",
+    thumb: "../files/thumb_colleges-tech/colleges-tech.jpg",
+    site_url: "https://web.dev/learn/",
+    category: "Web Developer"
+  }, 
+  {
+    title: "aaaaaaaa",
+    duration: "10 dias",
+    thumb: "../files/thumb_colleges-tech/colleges-tech.jpg",
+    site_url: "https://web.dev/learn/",
+    category: "Web Developer"
+  }, 
+  {
+    title: "aaaaaaaa",
+    duration: "10 dias",
+    thumb: "../files/thumb_colleges-tech/colleges-tech.jpg",
+    site_url: "https://web.dev/learn/",
+    category: "Web Developer"
+  }, 
+  {
+    title: "aaaaaaaa",
+    duration: "10 dias",
+    thumb: "../files/thumb_colleges-tech/colleges-tech.jpg",
+    site_url: "https://web.dev/learn/",
+    category: "Web Developer"
+  }, 
+  {
+    title: "aaaaaaaa",
+    duration: "10 dias",
+    thumb: "../files/thumb_colleges-tech/colleges-tech.jpg",
+    site_url: "https://web.dev/learn/",
+    category: "Web Developer"
+  }, 
+  {
+    title: "aaaaaaaa",
+    duration: "10 dias",
+    thumb: "../files/thumb_colleges-tech/colleges-tech.jpg",
+    site_url: "https://web.dev/learn/",
+    category: "Web Developer"
+  }, 
 ]
 
 fullstacks.map((fullstack) => {

@@ -11,6 +11,13 @@ const fullstacks = [
     category: "Comunidade"
   },
   {
+    title: "hashnode",
+    duration: "10 dias",
+    thumb: "../files/thumb_tools/hashnode.jpg",
+    site_url: "https://hashnode.com/",
+    category: "Comunidade"
+  },
+  {
     title: "StackOverflow",
     duration: "2 dias",
     thumb: "../files/thumb_tools/stackoverflow.jpg",

@@ -158,6 +158,13 @@ const fullstacks = [
     category: "Javascript Advanced"
   },
   {
+    title: "Developers Google",
+    duration: "14 dias",
+    thumb: "../files/thumb_hard-skills/developers-google.jpg",
+    site_url: "https://developers.google.com/",
+    category: "Developers"
+  },
+  {
     title: "Styled Components",
     duration: "14 dias",
     thumb: "../files/thumb_hard-skills/styled-components.jpg",
