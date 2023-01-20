@@ -192,6 +192,104 @@ const fullstacks = [
     site_url: "https://convertingcolors.com/hex-color-DB7093.html",
     category: "Cores"
   },
+  {
+    title: "illlustrations",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/illlustrations.jpg",
+    site_url: "https://illlustrations.co/",
+    category: "Illustrations"
+  },
+  {
+    title: "unsplash",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/unsplash.jpg",
+    site_url: "https://unsplash.com/#_=_",
+    category: "Illustrations"
+  },
+  {
+    title: "pinterest",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/pinterest.jpg",
+    site_url: "https://br.pinterest.com/",
+    category: "Illustrations"
+  },
+  {
+    title: "imagens gratuitas",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/imgsgratis.jpg",
+    site_url: "https://blog.rocketseat.com.br/melhores-sites-para-baixar-imagens-gratuitas-e-outros-recursos/",
+    category: "Illustrations"
+  },
+  {
+    title: "photopea",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/photopea.jpg",
+    site_url: "https://www.photopea.com/",
+    category: "Editor Images"
+  },
+  {
+    title: "canva logo",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/canva.jpg",
+    site_url: "https://www.canva.com/",
+    category: "Illustrations"
+  },
+  {
+    title: "nicepage",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/nicepage.jpg",
+    site_url: "https://nicepage.com/",
+    category: "Illustrations"
+  },
+  {
+    title: "behance",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/behance.jpg",
+    site_url: "https://www.behance.net/",
+    category: "Illustrations"
+  },
+  {
+    title: "dribbble",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/dribbble.jpg",
+    site_url: "https://dribbble.com/",
+    category: "Illustrations"
+  },
+  {
+    title: "tailor brands",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/tailorbrands.jpg",
+    site_url: "https://studio.tailorbrands.com/",
+    category: "Illustrations"
+  },
+  {
+    title: "phosphor icons",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/phosphoricons.jpg",
+    site_url: "https://phosphoricons.com/",
+    category: "Illustrations"
+  },
+  {
+    title: "flaticon",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/flaticon.jpg",
+    site_url: "https://www.flaticon.com/",
+    category: "Icon"
+  },
+  {
+    title: "icons8",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/icons8.jpg",
+    site_url: "https://icons8.com/",
+    category: "Icon"
+  },
+  {
+    title: "freepik",
+    duration: "1 dia",
+    thumb: "../files/thumb_tools/freepik.jpg",
+    site_url: "https://br.freepik.com/",
+    category: "Icon"
+  },
 ]
 
 fullstacks.map((fullstack) => {
