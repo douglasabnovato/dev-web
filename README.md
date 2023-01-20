@@ -21,6 +21,7 @@ Links de conteúdos para aprender a programar, sendo: soft skill, frontend, back
 - [x] estrutura de tópicos construídos index, hardskills, tools, host, collegestech, perfisdev, goodcompanies, jobs, softskills, speaker
 - [ ] personalizar formulário com uma funcionalidade legal
 - [ ] criar função para botão principal
+- [ ] warning na index
 
 ### Detalhes da versão inicial
 
