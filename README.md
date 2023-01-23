@@ -27,6 +27,15 @@ Links de conteúdos para aprender a programar, sendo: soft skill, frontend, back
 
 Desenvolver a aplicação de forma completa.
 
+- [ ] login, logout, register, recuperação de senha
+- [ ] páginas on e páginas off
+- [ ] newsletter
+- [ ] contato: enviar email
+- [ ] contato: mensageiro whatsapp
+- [ ] nova aba: redes sociais
+- [ ] nova aba: experiências
+- [ ] nova aba: eventos
+
 ### Detalhes da versão inicial
 
 A Responsividade é um assunto muito importante para que nosso layout seja flexível, conforme o dispositivo que o está acessando, seja ele smartphone, tablet ou desktop. (E até mesmo, a impressora sabia?)
