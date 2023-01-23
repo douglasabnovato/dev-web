@@ -66,13 +66,6 @@ const fullstacks = [
     site_url: "https://www.heroku.com/",
     category: "Servidor de Hospedagem"
   },
-  {
-    title: "CSS - Como eu penso em CSS?",
-    duration: "20 min 35 seg",
-    thumb: "./../files/thumb_index/photo-44.avif",
-    video_url: "q_ppL_sU6qU",
-    category: "Frontend"
-  },
 ]
 
 fullstacks.map((fullstack) => {
