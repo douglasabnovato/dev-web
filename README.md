@@ -23,6 +23,10 @@ Links de conteúdos para aprender a programar, sendo: soft skill, frontend, back
 - [ ] criar função para botão principal
 - [ ] warning na index
 
+### Objetivo
+
+Desenvolver a aplicação de forma completa.
+
 ### Detalhes da versão inicial
 
 A Responsividade é um assunto muito importante para que nosso layout seja flexível, conforme o dispositivo que o está acessando, seja ele smartphone, tablet ou desktop. (E até mesmo, a impressora sabia?)
