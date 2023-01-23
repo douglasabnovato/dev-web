@@ -88,39 +88,116 @@ const fullstacks = [
     category: "Developer"
   },
   {
-    title: "aaaaaaaaaa",
+    title: "Abler",
     duration: "3 dias",
-    thumb: "../files/thumb_jobs/programathor.jpg",
-    site_url: "https://programathor.com.br/",
+    thumb: "../files/thumb_jobs/abler.jpg",
+    site_url: "https://candidatos.abler.com.br/app/vagas?q=desenvolvedor",
     category: "Developer"
   },
   {
-    title: "aaaaaaaaaa",
+    title: "99freelas",
     duration: "3 dias",
-    thumb: "../files/thumb_jobs/programathor.jpg",
-    site_url: "https://programathor.com.br/",
-    category: "Developer"
+    thumb: "../files/thumb_jobs/99freelas.jpg",
+    site_url: "https://www.99freelas.com.br/projects",
+    category: "Freelas"
   },
   {
-    title: "aaaaaaaaaa",
+    title: "Superprof",
     duration: "3 dias",
-    thumb: "../files/thumb_jobs/programathor.jpg",
-    site_url: "https://programathor.com.br/",
-    category: "Developer"
+    thumb: "../files/thumb_jobs/superprof.jpg",
+    site_url: "https://www.superprof.com.br/",
+    category: "Freelas"
   },
   {
-    title: "aaaaaaaaaa",
+    title: "Workana",
     duration: "3 dias",
-    thumb: "../files/thumb_jobs/programathor.jpg",
-    site_url: "https://programathor.com.br/",
-    category: "Developer"
+    thumb: "../files/thumb_jobs/workana.jpg",
+    site_url: "https://www.workana.com/jobs?language=pt",
+    category: "Freelas"
   },
   {
-    title: "aaaaaaaaaa",
+    title: "meuredator",
     duration: "3 dias",
-    thumb: "../files/thumb_jobs/programathor.jpg",
-    site_url: "https://programathor.com.br/",
-    category: "Developer"
+    thumb: "../files/thumb_jobs/meuredator.jpg",
+    site_url: "https://meuredator.com.br/",
+    category: "Freelas"
+  },
+  {
+    title: "meseems",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/meseems.jpg",
+    site_url: "https://meseems.com.br/Social/Posts",
+    category: "Freelas"
+  },
+  {
+    title: "myiyo",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/myiyo.jpg",
+    site_url: "https://www.myiyo.com/",
+    category: "Freelas"
+  },
+  {
+    title: "suasaulasparticulares",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/suasaulasparticulares.jpg",
+    site_url: "https://www.suasaulasparticulares.com.br/",
+    category: "Freelas"
+  },
+  {
+    title: "starofservice",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/starofservice.jpg",
+    site_url: "https://www.starofservice.com.br/",
+    category: "Freelas"
+  },
+  {
+    title: "catho",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/catho.jpg",
+    site_url: "https://www.catho.com.br/area-candidato",
+    category: "Freelas"
+  },
+  {
+    title: "jfempregos",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/jfempregos.jpg",
+    site_url: "https://www.jfempregos.com.br/vagas-sugeridas",
+    category: "Freelas"
+  },
+  {
+    title: "kenoby",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/kenoby.jpg",
+    site_url: "https://empregos.kenoby.com/",
+    category: "Freelas"
+  },
+  {
+    title: "indeed",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/indeed.jpg",
+    site_url: "https://br.indeed.com/?from=gnav-homepage",
+    category: "Freelas"
+  },
+  {
+    title: "infojobs",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/infojobs.jpg",
+    site_url: "https://www.infojobs.com.br/t",
+    category: "Freelas"
+  },
+  {
+    title: "fiemg",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/fiemg.jpg",
+    site_url: "https://portal.fiemg.com.br/paraVoce",
+    category: "Freelas"
+  },
+  {
+    title: "senac",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/senac.jpg",
+    site_url: "https://www.senac.br/",
+    category: "Freelas"
   },
 ]
 
