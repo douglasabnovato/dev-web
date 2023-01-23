@@ -101,6 +101,13 @@ const fullstacks = [
     site_url: "https://geekhunter.gupy.io/",
     category: "Developer"
   },
+  {
+    title: "gupy",
+    duration: "10 dias",
+    thumb: "../files/thumb_good-companies/gupy.jpg",
+    site_url: "https://tech-career.gupy.io/?utm_source=site&utm_medium=footer",
+    category: "Developer"
+  },
 ]
 
 fullstacks.map((fullstack) => {
