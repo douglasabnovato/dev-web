@@ -52,8 +52,14 @@ Além do mais, veremos atributos e tags HTML especiais, para que possamos obter 
 Design inicial com a aplicação das técnicas citadas abaixo de responsividade.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1.5 do projeto" title="#BlogResponsive" src="./.github/tela-5.jpg" width="400px">
-  <img alt="versão 1.5 do projeto" title="#BlogResponsive" src="./.github/tela-6.jpg" height="400px">
+  <img alt="versão 1.5 do projeto" title="#developer" src="./.github/tela-5.jpg" width="400px">
+  <img alt="versão 1.5 do projeto" title="#developer" src="./.github/tela-6.jpg" height="400px">
+</p> 
+
+### Warning GET 404
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="warning" title="#warning" src="./.github/warning-get-404.jpg" width="400px"> 
 </p> 
 
 ## CSS Units
@@ -133,8 +139,8 @@ Usamos a tag `<picture>` para que as imagens sejam responsivas.
 Design inicial sem aplicação das técnicas citadas acima de responsividade.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-3.jpg" width="400px">
-  <img alt="versão 1 do projeto" title="#BlogResponsive" src="./.github/tela-4.jpg" height="400px">
+  <img alt="versão 1 do projeto" title="#developer" src="./.github/tela-3.jpg" width="400px">
+  <img alt="versão 1 do projeto" title="#developer" src="./.github/tela-4.jpg" height="400px">
 </p> 
 
 Sempre que possível, usar SVG ao invés de JPG, PNG 
