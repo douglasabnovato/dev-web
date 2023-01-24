@@ -20,6 +20,7 @@ Links de conteúdos para aprender a programar, sendo: soft skill, frontend, back
 - [x] personalizar menu mobile com fluxo 
 - [x] estrutura de tópicos construídos index, hardskills, tools, host, collegestech, perfisdev, goodcompanies, jobs, softskills, speaker
 - [x] warning na index: resolvido com as imagens para .jpg
+- [ ] warning na index: try catch, async await 
 - [ ] personalizar formulário com uma funcionalidade legal
 - [ ] criar função para botão principal
 
