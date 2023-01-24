@@ -1,11 +1,9 @@
 const sectionCards = document.querySelector("section.cards");
 
 const card = document.querySelector("div.card");
-
-let hardskills = []
-
-function dataImages() {
-  hardskills = [
+  
+try { 
+  const hardskills = [
     {
       title: "As melhores SOFT SKILLS para devs (que estão começando)",
       duration: "55 min 23 seg",
@@ -423,11 +421,9 @@ function dataImages() {
       video_id: "DiXbJL3iWVs",
       category: "Backend"
     },
-  ]
-}
+  ] 
 
-try {
-  dataImages()
+  console.log('Construi o objeto.');
 
   hardskills.map((hardskill) => {
     const cardClone = card.cloneNode(true);
@@ -438,10 +434,10 @@ try {
     cardClone.querySelector(".info > p.price").innerHTML = hardskill.category;
     sectionCards.appendChild(cardClone);
   });
-  
-  console.log('Construi o objeto.');
+
+  console.log('Montar o card.');
 } catch (e) {
-  console.log('Montando o objeto json.');
+  console.log('Montando o objeto json:', e.message);
 }
 
 card.remove();
