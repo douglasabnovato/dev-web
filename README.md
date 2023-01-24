@@ -19,7 +19,7 @@ Links de conteúdos para aprender a programar, sendo: soft skill, frontend, back
 - [x] personalizar menu com área de estudo
 - [x] personalizar menu mobile com fluxo 
 - [x] estrutura de tópicos construídos index, hardskills, tools, host, collegestech, perfisdev, goodcompanies, jobs, softskills, speaker
-- [x] warning imagens na index: tentativa de .avif para .jpg, tentativa try catch, async await. Correção: diminuir o caminho da url
+- [x] warning imagens na index: Tentativas: try catch, async await. Correções: mudar de .avif para .jpg, diminuir o caminho da url.
 - [ ] personalizar formulário com uma funcionalidade legal
 - [ ] criar função para botão principal
 
