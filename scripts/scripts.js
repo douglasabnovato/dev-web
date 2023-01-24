@@ -422,25 +422,22 @@ const hardskills = [
   }
 ]
 
-try {
+console.log('Construi o objeto.');
 
-  console.log('Construi o objeto.');
+hardskills.map((hardskill) => {
+  const cardClone = card.cloneNode(true);
 
-  hardskills.map(async (hardskill) => {
-    const cardClone = card.cloneNode(true);
-    cardClone.setAttribute("id", hardskill.video_url);
-    cardClone.querySelector("img").src = await (hardskill.thumb);
-    cardClone.querySelector(".title").innerHTML = hardskill.title;
-    cardClone.querySelector(".info > p.text--medium").innerHTML = hardskill.duration;
-    cardClone.querySelector(".info > p.price").innerHTML = hardskill.category;
-    sectionCards.appendChild(cardClone);
-  });
+  cardClone.setAttribute("id", (hardskill.video_url));
 
-  console.log('Montar o card.');
+  cardClone.querySelector("img").src = (hardskill.thumb);
+  cardClone.querySelector(".title").innerHTML = (hardskill.title);
+  cardClone.querySelector(".info > p.text--medium").innerHTML = (hardskill.duration);
+  cardClone.querySelector(".info > p.price").innerHTML = (hardskill.category);
 
-} catch (e) {
-  console.log('Montando o objeto json:', e.message);
-}
+  sectionCards.appendChild(cardClone);
+});
+
+console.log('Montar o card.');
 
 card.remove();
 
