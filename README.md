@@ -60,6 +60,7 @@ Design inicial com a aplicação das técnicas citadas abaixo de responsividade.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="warning" title="#warning" src="./.github/warning-get-404.jpg" width="400px"> 
+  <img alt="warning" title="#warning" src="./files/images/oops-404-error.jpg" width="400px"> 
 </p> 
 
 ## CSS Units
