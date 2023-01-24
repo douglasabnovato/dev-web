@@ -95,6 +95,13 @@ const fullstacks = [
     category: "Developer"
   },
   {
+    title: "vagas",
+    duration: "3 dias",
+    thumb: "../files/thumb_jobs/vagas.jpg",
+    site_url: "https://www.vagas.com.br/vagas-de-desenvolvedor",
+    category: "Developer"
+  },
+  {
     title: "99freelas",
     duration: "3 dias",
     thumb: "../files/thumb_jobs/99freelas.jpg",
