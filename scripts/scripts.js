@@ -428,20 +428,21 @@ function dataImages() {
 
 try {
   dataImages()
+
+  hardskills.map((hardskill) => {
+    const cardClone = card.cloneNode(true);
+    cardClone.setAttribute("id", hardskill.video_url);
+    cardClone.querySelector("img").src = hardskill.thumb;
+    cardClone.querySelector(".title").innerHTML = hardskill.title;
+    cardClone.querySelector(".info > p.text--medium").innerHTML = hardskill.duration;
+    cardClone.querySelector(".info > p.price").innerHTML = hardskill.category;
+    sectionCards.appendChild(cardClone);
+  });
+  
   console.log('Construi o objeto.');
 } catch (e) {
   console.log('Montando o objeto json.');
 }
-
-hardskills.map((hardskill) => {
-  const cardClone = card.cloneNode(true);
-  cardClone.setAttribute("id", hardskill.video_url);
-  cardClone.querySelector("img").src = hardskill.thumb;
-  cardClone.querySelector(".title").innerHTML = hardskill.title;
-  cardClone.querySelector(".info > p.text--medium").innerHTML = hardskill.duration;
-  cardClone.querySelector(".info > p.price").innerHTML = hardskill.category;
-  sectionCards.appendChild(cardClone);
-});
 
 card.remove();
 
